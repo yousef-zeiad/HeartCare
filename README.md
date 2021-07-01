@@ -2,7 +2,7 @@
 
 <center><p>
 <img src="./assets/images/logo.png" alt="drawing" width="200"/>
-</p><p>
+</p><
 </center>
 
 # Heart-Care
@@ -28,7 +28,7 @@ React-native iOS / Android app
   - [Expo](#expo)
   - [Styled Components](#styled-components)
   - [React-Native-Shared-Element](#react-native-shared-element)
-  -  [React-Native-Navigation](#react-native-navigation)
+  -  [React-Navigation](#react-navigation-v5)
   -   [React-Native-animated-charts](#react-native-@rainbow-me/animated-charts)
 - [Components](#components)
   - [Header](#header)
