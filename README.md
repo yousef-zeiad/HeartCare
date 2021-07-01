@@ -2,7 +2,7 @@
 
 <center><p>
 <img src="./assets/images/logo.png" alt="drawing" width="200"/>
-</p><
+</p>
 </center>
 
 # Heart-Care
