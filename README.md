@@ -126,14 +126,16 @@ read more:
 
 ## React-Native-Shared-Element
 
-This library solves that problem through an all native implementation which is very close to the metal of the OS. It solves the problem by providing a set of "primitives",
+Shared-element transitions add shine to your app but can be hard to do in practise. It's possible to achieve some nice transitions by building custom modals and using the the core react-native API, But this also brings with it many restrictions. Things like resizing an image or making sure no "flicker" occurs even an older Android devices can be a real challenge.
+
+
 Read more:
 
 - [react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element)
 
 ## React-Native-animated-charts
 
-This library solves that problem through an all native implementation which is very close to the metal of the OS. It solves the problem by providing a set of "primitives",
+The library was designed to create aesthetic, animated (so far only linear) charts based on a given input. The main assumptions of the library were to create smooth transitions between subsequent data sets.
 Read more:
 
 - [react-native-@rainbow-me/animated-charts](https://github.com/rainbow-me/react-native-animated-charts)
